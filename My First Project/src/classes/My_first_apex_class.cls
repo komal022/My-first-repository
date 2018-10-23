@@ -4,9 +4,5 @@ public with sharing class My_first_apex_class {
 
 //This is my second commit
 
-
-//My third commit
-//My fourth commit
-
     
 }
